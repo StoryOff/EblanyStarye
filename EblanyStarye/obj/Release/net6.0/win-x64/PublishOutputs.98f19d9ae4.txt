@@ -1,2 +1,0 @@
-C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\bin\Release\net6.0\publish\win-x64\EblanyStarye.pdb
-C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\bin\Release\net6.0\publish\win-x64\EblanyStarye.exe
