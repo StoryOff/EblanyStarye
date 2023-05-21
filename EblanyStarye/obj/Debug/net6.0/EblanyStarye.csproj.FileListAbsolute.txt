@@ -1,0 +1,15 @@
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\bin\Debug\net6.0\EblanyStarye.exe
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\bin\Debug\net6.0\EblanyStarye.deps.json
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\bin\Debug\net6.0\EblanyStarye.runtimeconfig.json
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\bin\Debug\net6.0\EblanyStarye.dll
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\bin\Debug\net6.0\EblanyStarye.pdb
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\obj\Debug\net6.0\EblanyStarye.csproj.AssemblyReference.cache
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\obj\Debug\net6.0\EblanyStarye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\obj\Debug\net6.0\EblanyStarye.AssemblyInfoInputs.cache
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\obj\Debug\net6.0\EblanyStarye.AssemblyInfo.cs
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\obj\Debug\net6.0\EblanyStarye.csproj.CoreCompileInputs.cache
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\obj\Debug\net6.0\EblanyStarye.dll
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\obj\Debug\net6.0\refint\EblanyStarye.dll
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\obj\Debug\net6.0\EblanyStarye.pdb
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\obj\Debug\net6.0\EblanyStarye.genruntimeconfig.cache
+C:\Users\StoryOff\source\repos\EblanyStarye\EblanyStarye\obj\Debug\net6.0\ref\EblanyStarye.dll
